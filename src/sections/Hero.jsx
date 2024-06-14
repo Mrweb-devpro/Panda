@@ -71,11 +71,12 @@ function Hero() {
       <Logo />
       <main>
         <div>
-          <h1>Save the panda's</h1>
+          <h1>Save the pandas !!!</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur. Pulvinar pretium venenatis
-            nam eu nisl. Aliqua scelerisque eleifend tristique pellentesque
-            lectus diam.
+            Welcome to Pandas, a dedicated platform committed to the
+            preservation and protection of the giant panda. Our mission is to
+            raise awareness, support conservation efforts, and engage
+            communities in protecting this beloved species from extinction.
           </p>
           <Button>Contribute</Button>
         </div>
