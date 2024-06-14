@@ -71,7 +71,7 @@ function Hero() {
       <Logo />
       <main>
         <div>
-          <h1>Save the pandas !!!</h1>
+          <h1>Save the pandas</h1>
           <p>
             Welcome to Pandas, a dedicated platform committed to the
             preservation and protection of the giant panda. Our mission is to
