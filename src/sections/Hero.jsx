@@ -12,6 +12,7 @@ const StyledSection = styled.section`
   flex-direction: column;
   gap: 4rem;
   @media (max-width: 1000px) {
+      gap: 10rem;
     justify-content: space-between;
     text-align: center;
   }
